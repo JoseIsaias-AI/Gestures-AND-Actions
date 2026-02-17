@@ -20,6 +20,9 @@ Extracts confidence heatmaps for each keypoint
 
 Applies spatial argmax using cv2.minMaxLoc
 
+<img width="564" height="593" alt="image" src="https://github.com/user-attachments/assets/85e2ae35-4598-49a0-9fb4-fa0b9bc7ca2a" />
+
+
 Rescales coordinates to the original image size
 
 Filters detections using a confidence threshold
